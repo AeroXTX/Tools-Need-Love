@@ -8,6 +8,7 @@ This mod is designed to feel immersive, balanced, and vanilla-friendly, while la
 ⚙️ Current Features
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 🪓 Tool & Armor Wear System
 
 Iron tools and armor degrade over time
