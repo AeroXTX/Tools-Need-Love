@@ -6,6 +6,8 @@ Your gear doesn’t stay pristine forever — if you use it, it shows.
 This mod is designed to feel immersive, balanced, and vanilla-friendly, while laying the groundwork for much deeper systems in the future.
 
 ⚙️ Current Features
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 🪓 Tool & Armor Wear System
 
 Iron tools and armor degrade over time
@@ -15,19 +17,14 @@ Usage and damage cause items to become:
 🟤 Worn
 
 🔩 Rusted
+-=-=-=-=-=-==-=-=-=-=-=-=-=-=-
 
 Visual and functional progression makes equipment feel earned, not disposable
 
-🧱 Vanilla-Friendly Design
-
-No overcomplicated mechanics
-
-No forced micromanagement
-
-Fits naturally into survival gameplay
 
 🌧️ Planned Features (In Development)
-🌍 Climate-Based Rust System
+(🌍 Climate-Based Rust System)
+
 
 In future versions, rust will no longer be tied to simple usage alone.
 
@@ -69,7 +66,13 @@ Expect changes, improvements, and expanded systems over time.
 
 💬 Feedback & Contributions
 
+
+
 Feedback, ideas, and suggestions are always welcome.
 This mod is built with longevity and polish in mind.
 
 🛠️ Because tools work hard — and they should show it.
+
+
+
+ - AeroXTX
