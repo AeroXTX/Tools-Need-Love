@@ -18,6 +18,7 @@ Usage and damage cause items to become:
 🟤 Worn
 
 🔩 Rusted
+
 -=-=-=-=-=-==-=-=-=-=-=-=-=-=-
 
 Visual and functional progression makes equipment feel earned, not disposable
