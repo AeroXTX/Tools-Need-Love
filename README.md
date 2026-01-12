@@ -1,13 +1,14 @@
-🛠️ Tools Need Love
+# 🛠️ Tools Need Love
+
 
 Tools Need Love is a Minecraft mod that adds realistic wear, rust, and degradation to iron tools and armor.
 Your gear doesn’t stay pristine forever — if you use it, it shows.
 
 This mod is designed to feel immersive, balanced, and vanilla-friendly, while laying the groundwork for much deeper systems in the future.
 
-⚙️ Current Features
+# ⚙️ Current Features
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 🪓 Tool & Armor Wear System
 
@@ -19,12 +20,13 @@ Usage and damage cause items to become:
 
 🔩 Rusted
 
--=-=-=-=-=-==-=-=-=-=-=-=-=-=-
+
 
 Visual and functional progression makes equipment feel earned, not disposable
 
 
-🌧️ Planned Features (In Development)
+# 🌧️ Planned Features (In Development)
+
 (🌍 Climate-Based Rust System)
 
 
@@ -34,27 +36,15 @@ Planned mechanics include:
 
 ☔ Rain exposure
 
+
 🌫️ High-humidity or damp biomes
+
 
 🏞️ Climate-aware degradation instead of flat durability loss
 
-This means:
 
-Tools won’t rust just from mining in a desert
 
-Leaving iron gear exposed in wet environments will matter
-
-Storage and environment become meaningful gameplay decisions
-
-🔮 Long-Term Vision
-
-More realistic equipment behavior
-
-Deeper immersion without turning Minecraft into a chore
-
-Expandable framework for additional materials and mechanics
-
-📦 Downloads
+# 📦 Downloads
 
 You can find official releases here:
 
