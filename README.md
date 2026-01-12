@@ -48,8 +48,8 @@ Planned mechanics include:
 
 You can find official releases here:
 
-🔗 Modrinth:
-https://modrinth.com/project/tools-need-love
+~~🔗 Modrinth:
+https://modrinth.com/project/tools-need-love~~
 
 🧪 Status
 
