@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="tools_need_love"
+version="1.0"
+displayName="Tools Need Love"
+displayURL="https://github.com/AeroXTX"
+credits="Created by AeroXTX"
+authors="AeroXTX"
+description="Tools Need Loving"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.tools_need_love]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

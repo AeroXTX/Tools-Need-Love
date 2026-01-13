@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "tools_need_love:blocks/crate_of_oil",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tools_need_love:oil",
+          "functions": [
+            {
+              "count": 9,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

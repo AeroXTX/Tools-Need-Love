@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "tools_need_love:rusty_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.rusted.title"
+    },
+    "description": {
+      "translate": "advancements.rusted.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "rusted_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tools_need_love:worn_question"
+}

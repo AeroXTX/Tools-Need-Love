@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "tools_need_love:oil"
+    }
+  },
+  "result": {
+    "item": "tools_need_love:crate_of_oil",
+    "count": 1
+  }
+}

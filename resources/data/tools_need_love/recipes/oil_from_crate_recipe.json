@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tools_need_love:crate_of_oil"
+    }
+  ],
+  "result": {
+    "item": "tools_need_love:oil",
+    "count": 9
+  }
+}

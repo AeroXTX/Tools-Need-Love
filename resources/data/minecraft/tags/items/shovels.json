@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tools_need_love:worn_shovel",
+    "tools_need_love:iron_shovel",
+    "tools_need_love:rusty_shovel"
+  ]
+}
