@@ -16,9 +16,9 @@ Iron tools and armor degrade over time
 
 Usage and damage cause items to become:
 
-🟤 Worn
+🟤 Worn ✅
 
-🔩 Rusted
+🔩 Rusted 
 
 
 
