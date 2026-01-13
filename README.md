@@ -18,14 +18,14 @@ Usage and damage cause items to become:
 
 🟤 Worn ✅
 
-🔩 Rusted 
+🔩 Rusted 🚧
 
 
 
 Visual and functional progression makes equipment feel earned, not disposable
 
 
-# 🌧️ Planned Features (In Development)
+# 🌧️ Planned Features (In Development) 🚧
 
 (🌍 Climate-Based Rust System)
 
