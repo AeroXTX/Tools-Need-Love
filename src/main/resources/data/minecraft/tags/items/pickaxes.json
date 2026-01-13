@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "tools_need_love:rusty_pickaxe",
+    "tools_need_love:ironpickaxe",
     "tools_need_love:worn_pickaxe"
   ]
 }

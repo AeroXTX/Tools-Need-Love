@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.worntosqueekyclean.title"
+    },
+    "description": {
+      "translate": "advancements.worntosqueekyclean.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "worntosqueekyclean_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}

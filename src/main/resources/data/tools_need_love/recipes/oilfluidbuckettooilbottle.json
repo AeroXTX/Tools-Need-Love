@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "tools_need_love:oilfluid_bucket"
+    }
+  ],
+  "result": {
+    "item": "tools_need_love:oil",
+    "count": 4
+  }
+}

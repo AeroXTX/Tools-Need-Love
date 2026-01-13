@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "tools_need_love:ironpickaxe"
+    },
+    "title": {
+      "translate": "advancements.isntitironpick.title"
+    },
+    "description": {
+      "translate": "advancements.isntitironpick.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "isntitironpick_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:story/iron_tools"
+}
