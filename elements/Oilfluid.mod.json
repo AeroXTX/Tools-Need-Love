@@ -1,0 +1,59 @@
+{
+  "_fv": 79,
+  "_type": "fluid",
+  "definition": {
+    "name": "Oilfluid",
+    "bucketName": "Oil Bucket",
+    "textureStill": "minecraft:anvil",
+    "textureFlowing": "minecraft:anvil",
+    "textureRenderOverlay": "",
+    "hasFog": false,
+    "fogStartDistance": {
+      "fixedValue": 0.0
+    },
+    "fogEndDistance": {
+      "fixedValue": 48.0
+    },
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 40,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "ASH"
+    },
+    "flowStrength": 1.0,
+    "luminosity": 0,
+    "density": 1054,
+    "viscosity": 1101,
+    "temperature": 276,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:ToolsNeedLove"
+      },
+      {
+        "value": "MATERIALS"
+      }
+    ],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "ignitedByLava": false,
+    "flammability": 1,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT"
+  }
+}

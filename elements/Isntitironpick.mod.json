@@ -1,0 +1,24 @@
+{
+  "_fv": 79,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Isn't It Iron Pick",
+    "achievementDescription": "Craft a Iron Pickaxe",
+    "achievementIcon": {
+      "value": "CUSTOM:Ironpickaxe"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "story/iron_tools"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"147\" y=\"107\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}
