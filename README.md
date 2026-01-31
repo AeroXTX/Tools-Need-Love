@@ -1,3 +1,5 @@
+# Currently inactive. During a recent power outage my PC shutdown and Linux decided to OFF itself before i got a change to back the files up to my NAS so great.
+
 # 🛠️ Tools Need Love
 
 
